@@ -63,3 +63,8 @@
 23. Run bun install in root level as openRouter
 
 25. Setup the signup route.
+
+26. Now code for siginin code with setup as jwt. [primary_backend]
+    => bun add @elysiajs/jwt
+
+27. 
